@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "howlround",
+    "name": "bekendpractic",
     "builds": [
         {
             "src": "index.js",
